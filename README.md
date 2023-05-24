@@ -46,8 +46,8 @@ Path planning helps to improve the printed surface quality, shape accuracy and i
 ## Output:
 <img height=30% width=100% src="https://github.com/ROHITJAIND/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707073/c70ee438-315d-4b05-a3b6-71897edfb8a7">
 
-### Name: ROHIT JAIN D
-### Register Number: 212222230120
+### Name: MUKESH P
+### Register Number: 212222240068
 
 ## Result: 
 Thus the simulation on the Preprocessing in additive manufacturing is completed.
